@@ -1,0 +1,38 @@
+{
+    "filmes": [
+        {
+            "id": 1,
+            "title": "DARKAT",
+            "image": "https://www.championcat.cl/catflix/wp-content/uploads/2020/12/Dark.jpg",
+            "imagebanner": "https://www.championcat.cl/catflix/wp-content/uploads/2020/12/dark-bg.png",
+            "video": "yO1gvflK66Q",
+            "description": "Em 1953, três gatos entediados de comer a mesma coisa todos os dias, viajam para outra época em busca de um sabor melhor."
+        },
+        {
+            "id": 2,
+            "title": "CAT WARS",
+            "image": "https://www.championcat.cl/catflix/wp-content/uploads/2020/12/CatWars.jpg",
+            "imagebanner": "https://www.catflix.cl/images/catwars-bg.png",
+            "video": "SQ55U3H9vto",
+            "description": "Um gato jovem e ousado terá que lucrar com as forças do mal e evitar cair nas tentações do lado negro o tempo todo, mesmo que um homem revelador possa mudar a vida de seu gato para sempre."
+        },
+        {
+            "id": 3,
+            "title": "TITANICAT",
+            "image": "https://www.championcat.cl/catflix/wp-content/uploads/2020/12/Titanic.jpg",
+            "imagebanner": "https://www.catflix.cl/images/titanicat-bg.jpg",
+            "video": "sWO55zLnwX4",
+            "description" : "Molly é uma jovem e bela gata de pelo vermelho que viaja no maior transatlântico do mundo, durante a viagem, a jovem gata deixa seu noivo milionário e encontra o amor em um humilde gato de bigode, ao mesmo tempo em que o navio fica com um Iceberg."
+        },
+        {
+            "id": 4,
+            "title": "STRANGER CAT",
+            "image": "https://www.championcat.cl/catflix/wp-content/uploads/2020/12/Stranger.jpg",
+            "imagebanner": "https://www.championcat.cl/catflix/wp-content/uploads/2020/12/stranger-cats-bg.jpg",
+            "video": "2Mb54FMbiaE",
+            "description" : "Um grupo de pequenos gatos descobre os poderes sobrenaturais de seu amigo chamado 'Doce' Viva a incrível aventura, realizada por carismáticos felinos que vivem em um único momento de momentos suspensos e com mucho Champion Cat Naturals."
+        }
+
+
+    ]
+}
